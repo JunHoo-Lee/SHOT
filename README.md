@@ -1,0 +1,1 @@
+# SHOT-Suppressing-the-Hessian-along-the-Optimization-Trajectory
